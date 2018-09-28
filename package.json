@@ -2,9 +2,9 @@
   "name": "hello-pluralsighters",
   "private": true,
   "version": "0.0.1",
-  "description": "Demo app for Pluralsight courses and DockerDeep Dive book",
+  "description": "Demo app for Adrian Maher Docker Training",
   "main": "app.js",
-  "author": "Nigel Poulton <nigelpoulton@hotmail.com>",
+  "author": "Adrian Maher adrian.maher1@gmail.com >",
   "license": "You'd have to be mad to use this in production :-D",
   "dependencies": {
     "express": "4.15.5",
